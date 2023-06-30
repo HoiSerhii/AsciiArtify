@@ -10,6 +10,7 @@
 | Popularity | 25.8k stars on GitHub | 11.1k stars on GitHub | 4.1k stars on GitHub |
 
 # Demonstration
+![Alt text](demo.gif)
 
 # Conclusions
 For our PoC we will use K3d
